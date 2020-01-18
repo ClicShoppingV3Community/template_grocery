@@ -6,3 +6,4 @@
    <div class="separator"></div>
   </div>
 </div>
+<?php echo $jsonLtd; ?>
