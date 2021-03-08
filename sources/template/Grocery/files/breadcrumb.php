@@ -26,7 +26,7 @@
     if (MODULE_HEADER_BREADCRUMP_STATUS == 'False' || empty(ClicShopping::getDef('module_header_breadcrump_title'))) {
 ?>
       <div class="separator"></div>
-      <div class="col-md-12 card-deck card-header breadcrumb">
+      <div class="col-md-12 card card-header breadcrumb">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
             <li>
@@ -51,7 +51,7 @@
   } else {
 ?>
       <div class="separator"></div>
-      <div class="col-md-12 card-deck card-header breadcrumb">
+      <div class="col-md-12 card card-header breadcrumb">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
             <li>
